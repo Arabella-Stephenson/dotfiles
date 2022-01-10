@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arabella.stephenson@gmail.com
+	name = Arabella Stephenson
